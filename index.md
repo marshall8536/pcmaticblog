@@ -43,7 +43,7 @@ After logging in successfully, you’ll be redirected to your PC Matic account d
 - Download the PC Matic software
 - Update billing or account information
 
-This dashboard is the central place to install PC Matic with license key or install PC Matic on this computer if you haven't done so yet.
+[This dashboard is the central place to install PC Matic with license key or install PC Matic on this computer if you haven't done so yet.](https://pcmaticblog.readthedocs.io/)
 
 
 
